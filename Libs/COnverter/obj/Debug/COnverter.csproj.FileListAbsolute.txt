@@ -1,0 +1,6 @@
+C:\Users\vampi\OneDrive\Рабочий стол\ОС\COnverter\bin\Debug\COnverter.dll
+C:\Users\vampi\OneDrive\Рабочий стол\ОС\COnverter\bin\Debug\COnverter.pdb
+C:\Users\vampi\OneDrive\Рабочий стол\ОС\COnverter\obj\Debug\COnverter.csproj.AssemblyReference.cache
+C:\Users\vampi\OneDrive\Рабочий стол\ОС\COnverter\obj\Debug\COnverter.csproj.CoreCompileInputs.cache
+C:\Users\vampi\OneDrive\Рабочий стол\ОС\COnverter\obj\Debug\COnverter.dll
+C:\Users\vampi\OneDrive\Рабочий стол\ОС\COnverter\obj\Debug\COnverter.pdb
